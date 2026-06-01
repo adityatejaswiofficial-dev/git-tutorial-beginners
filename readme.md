@@ -6,3 +6,6 @@ This is Readme and you should always do these things:
 - Repeat
 
 Thank You!
+
+## Summary
+It's a very nice repo
